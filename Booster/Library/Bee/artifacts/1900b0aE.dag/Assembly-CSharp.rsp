@@ -300,8 +300,8 @@
 -r:"C:/Users/AlexC/Desktop/Unity/2021.1.14f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Numerics.Vectors.dll"
 -r:"C:/Users/AlexC/Desktop/Unity/2021.1.14f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"C:/Users/AlexC/Desktop/Unity/2021.1.14f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll"
--r:"C:/Users/AlexC/Desktop/Unity/Obstacle Course/Project Boost/Booster/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll"
--r:"C:/Users/AlexC/Desktop/Unity/Obstacle Course/Project Boost/Booster/Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"C:/Users/AlexC/Desktop/Unity/Project Boost/Booster/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll"
+-r:"C:/Users/AlexC/Desktop/Unity/Project Boost/Booster/Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.ref.dll"
@@ -319,7 +319,10 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
+"Assets/Scripts/CollisionHandler.cs"
 "Assets/Scripts/Movement.cs"
+"Assets/Scripts/Oscillator.cs"
+"Assets/Scripts/QuitApplication.cs"
 -langversion:8.0
 
 /deterministic
